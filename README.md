@@ -24,11 +24,13 @@ Tired of generic book lists and endless scrolling? **BookSage** uses cutting-edg
 🌟 Great for Everyone – From casual readers to bookworms
 
 datasource:
-Kaggle datasets(Approx.7K Books): [https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1lGUzBjenlVUGh2a1A0TGVXMllrT0NFaDRRZ3xBQ3Jtc0ttb1dGM1FCbEI5YWhkbDVHcHRKOEdTc2Z0OGJrU0RmTllMa2NFVFZ6QlZlQlRvSzM4b2gxT1Vlb1lQdWhSRXNLbDA1U21qMDQ2S1hUYVp1clBJM3ZYVlBKWG1CNHl2N1gyVWZDTUhzN1BuanMwQnBvWQ&q=https%3A%2F%2Fkaggle.com%2Fdatasets&v=Q7mS1VHm3Yw](url)
+Kaggle datasets(Approx.7K Books): [https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGY3SzZzLVhaVm5EVjltcVpXbVJxME8waFlrQXxBQ3Jtc0ttLWVCZlZ0dGRac2RBUGZEallYWVE5Y3A3UjRzNFU1dVFGS1ZIaFgtN1BZSlIzMWt6Y29OLXN6YTBNS0plbV9GYU1KSlc1MHRLcXVJSC1TUk9wU2hLY1l1dE9lVXVqZ0FDaG55cjFYeG81Yy11Tm1Fbw&q=https%3A%2F%2Fkaggle.com%2Fdatasets%2Fdylanjcastillo%2F7k-books-with-metadata&v=Q7mS1VHm3Yw](url)
 
 model used:
 Hugging Face
 LangChain
 OpenAI API
+NPL
+Deep Learning
 
 Deployed on HuggingFace platform
