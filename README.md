@@ -12,15 +12,23 @@ Tired of generic book lists and endless scrolling? **BookSage** uses cutting-edg
 “Something dark, suspenseful, and unforgettable”
 
 🧠 Powered by Modern AI (LLM)
+
 ✔️ Natural Language Input: You speak like a human. Our AI listens like one
+
 ✔️ Deep Semantic Understanding: Using advanced text embeddings (all-MiniLM-L6-v2), we analyze the true meaning of your query
+
 ✔️ Emotion-Aware Matching: With emotion recognition (j-hartmann/emotion-english-distilroberta-base), we detect the emotional tone behind your words
+
 ✔️ Personalized Book Recommendations:Instantly get book suggestions that resonate—with your mind and mood
 
 💡 Why You’ll Love It
+
 🎯 Emotionally aligned, deeply relevant, never boring. Not just “similar books,” but emotionally relevant stories
+
 ⚡ Fast & Seamless: Results in seconds, no signup required
+
 📚 Curated With Care: Powered by real AI, not random lists
+
 🌟 Great for Everyone – From casual readers to bookworms
 
 datasource:
