@@ -27,10 +27,15 @@ datasource:
 Kaggle datasets(Approx.7K Books): [https://www.kaggle.com/datasets/dylanjcastillo/7k-books-with-metadata](url)
 
 model used:
+
 Hugging Face
+
 LangChain
+
 OpenAI API
+
 NPL
+
 Deep Learning
 
 Deployed on HuggingFace platform
