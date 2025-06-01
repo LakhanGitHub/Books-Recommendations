@@ -15,7 +15,7 @@ Tired of generic book lists and endless scrolling? **BookSage** uses cutting-edg
 
 ✔️ Natural Language Input: You speak like a human. Our AI listens like one
 
-✔️ Deep Semantic Understanding: Using advanced text embeddings (all-MiniLM-L6-v2), we analyze the true meaning of your query
+✔️ Deep Semantic Understanding: Uses Hugging Face models like all-MiniLM-L6-v2 for semantic understanding, we analyze the true meaning of your query
 
 ✔️ Emotion-Aware Matching: With emotion recognition (j-hartmann/emotion-english-distilroberta-base), we detect the emotional tone behind your words
 
