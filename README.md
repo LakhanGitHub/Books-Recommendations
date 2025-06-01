@@ -1,9 +1,9 @@
-✨ BookSage – Your Smart Book Companion
+✨ BookSage – AI Book Recommendation System
 
    🔗 Live App  [https://huggingface.co/spaces/lakhansahai2025/Book-Recommendation](url)
 
 📚 Discover Books That Truly Resonate With You
-Tired of generic book lists and endless scrolling? **BookSage** uses cutting-edge AI to understand your emotions and preferences—recommending books that match your mood, interests, and the way you think.
+Welcome to the AI Book Recommendation System — a smart, emotion-aware web app that helps you discover books tailored to your feelings, interests, and reading style
 
 💬 Just Say What You're In the Mood For
 **Whether you're feeling nostalgic, curious, inspired, or just looking for a thrilling escape, BookSage listens.**
