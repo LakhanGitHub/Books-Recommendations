@@ -1,6 +1,6 @@
 ✨ BookSage – Your Smart Book Companion
 
-   Application Link [https://huggingface.co/spaces/lakhansahai2025/Book-Recommendation](url)
+   Application Link  [https://huggingface.co/spaces/lakhansahai2025/Book-Recommendation](url)
 
 📚 Discover Books That Truly Resonate With You
 Tired of generic book lists and endless scrolling? **BookSage** uses cutting-edge AI to understand your emotions and preferences—recommending books that match your mood, interests, and the way you think.
